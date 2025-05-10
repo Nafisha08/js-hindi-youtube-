@@ -1,4 +1,4 @@
-# html-css-hindi-youtube-
-A code repo for html & css series at chai aur code youtube channel 
+# I love java script 
+A code repo for js series at Apna college 
 <br>
 Author name: Nafisha Aslam 
